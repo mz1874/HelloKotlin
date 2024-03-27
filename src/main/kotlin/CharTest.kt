@@ -19,5 +19,10 @@ class CharTest {
         print("\''");
         print("\\");
         print("\$");
+
+        var str = "SSSSSS";
+        print(str.length)
+
+        val l: Long = "17".toLong()
     }
 }
